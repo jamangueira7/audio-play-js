@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b4fed93-b5fd-403e-a7d9-ece9db13a0ac" name="Default Changelist" comment="" />
+    <list default="true" id="5b4fed93-b5fd-403e-a7d9-ece9db13a0ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/5-dicas-para-uma-carreira-solida-como-programador.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/5-dicas-para-uma-carreira-solida-como-programador.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/como-comecei.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/como-comecei.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/junior-pleno-ou-senior-qual-a-diferenca.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/files/junior-pleno-ou-senior-qual-a-diferenca.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +32,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1g929MBLHhxS6xw921HyyWoQ9kl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -36,9 +56,12 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\desenvolvimento\rocketseat\audio-play-js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\desenvolvimento\rocketseat\audio-play-js" />
     </key>
@@ -63,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597512334419</updated>
-      <workItem from="1597512335613" duration="3883000" />
+      <workItem from="1597512335613" duration="11455000" />
     </task>
     <servers />
   </component>
@@ -71,9 +94,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="75" key="SettingsEditor" timestamp="1597514711259">
+    <state x="308" y="75" key="SettingsEditor" timestamp="1597527474881">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1597514711259" />
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1597527474881" />
+    <state x="493" y="164" width="611" height="536" key="find.popup" timestamp="1597533573002">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="493" y="164" width="611" height="536" key="find.popup/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1597533573002" />
   </component>
 </project>
