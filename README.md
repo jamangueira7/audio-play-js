@@ -29,6 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Esse projeto foi feito acompanhando a video aula do Youtube, [clique aqui](https://www.youtube.com/watch?v=vqrjFnq3-uo) para acessar.
+
+É um players de audio em JS.
+
 ## 🚀 Como Rodar
 
 - Clone o projeto.
