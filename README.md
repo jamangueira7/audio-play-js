@@ -1,7 +1,6 @@
 <h1 align="center">
     <img alt="Rocketseat" title="Rocketseat" src=".github/rocketseat.png" width="60px" />
-    <img alt=" title=" src=".github/Logo.png" width="190px" />
-</h1>
+ </h1>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
